@@ -1,0 +1,24 @@
+    1 - acordo de manhã
+    2 - abro o olho
+    3 - levanto da cama
+    4 - vou ao banheiro
+    5 - pego escova de dente
+    6 - escovo os dentes
+    7 - tomo banho
+    8 - me visto
+    9 - vou para cozinha
+    10 - vou tomar café
+    11 - tem cafe pronto? Sim
+        1 - coloco no copo
+        2 - bebo o café
+    12 - Não tem café
+        1 - coloco agua na cafeteira
+        2 - coloco o pó de café
+        3 - ligo a cafetera
+        4 - espero ficar pronto
+        5 - coloco no copo
+        6 - bebo o café
+    13 - pego minha mochila
+    14 - destranco a porta
+    15 - fecho a porta
+    16 - vou para o trabalho
